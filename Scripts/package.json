@@ -1,0 +1,17 @@
+{
+  "name": "com.xiv.inventory-system",
+  "version": "1.0.0",
+  "displayName": "XIV Inventory System",
+  "description": "Inventory System that can be used in Unity projects.",
+  "dependencies": {
+    "com.xiv.so-channels": "1.0.0"
+  },
+ "keywords": [
+    "XIV",
+    "Inventory"
+  ],
+  "author": {
+    "name": "Ali Mert Çetin",
+    "email": "mrtmert54@gmail.com"
+  }
+}
