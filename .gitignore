@@ -2,6 +2,12 @@
 *
 # except
 !.gitignore
+
+# folders
+!/.github/
 !/Scripts/
+
+#files
 !*.sln
 !*.csproj
+!docfx.json
